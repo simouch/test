@@ -1,0 +1,16 @@
+I build an app where users can share places(images and adress) with other users
+one user can create multiple places 
+one place belong to one user 
+=> it is one to many reation
+2 entity = user/ places
+user will have name /email/password/image
+places will have title/ descripton / adress / location/image
+
+CRUD operations for 2 entity(place and user)
+get one and all
+post
+delete 
+update 
+
+
+
